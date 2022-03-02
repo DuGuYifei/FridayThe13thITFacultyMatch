@@ -1,0 +1,29 @@
+active player = 4
+players number = 5
+explosion threshold = 8
+1 player hand cards: 4 red 
+1 player deck cards: 
+2 player hand cards: 5 violet 
+2 player deck cards: 
+3 player hand cards: 5 red 
+3 player deck cards: 4 green 1 blue 2 blue 5 blue 4 green 5 yellow 
+4 player hand cards: 3 red 3 yellow 
+4 player deck cards: 1 yellow 4 green 2 yellow 4 yellow 
+5 player hand cards: 4 violet 2 violet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+5 player deck cards: 
+1 pile cards: 
+2 pile cards: 3 blue 4 blue 
+3 pile cards: 1 red 2 red 4 green 
+4 pile cards: 1 violet 3 violet 4 green
+阿萨的官方
+aiohdf
+ jfdi 
+
+    
+   
+
+ 
+
+   
+   
+    

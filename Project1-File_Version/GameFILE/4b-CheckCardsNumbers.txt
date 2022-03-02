@@ -1,0 +1,7 @@
+At least two colors with a different number of cards were found:
+blue cards are 17
+red cards are 18
+violet cards are 18
+yellow cards are 18
+white cards are 18
+black cards are 14

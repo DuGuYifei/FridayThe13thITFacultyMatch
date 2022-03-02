@@ -1,0 +1,26 @@
+Na kolor blue odporny jest gracz 13
+Na kolor red odporny jest gracz 3
+Na kolor violet odporny jest gracz 11
+Na kolor yellow odporny jest gracz 15
+Na kolor white odporny jest gracz 7
+Na kolor black odporny jest gracz 2
+Wynik gracza 1 = 8
+Wynik gracza 2 = 10
+Wynik gracza 3 = 18
+Wynik gracza 4 = 0
+Wynik gracza 5 = 0
+Wynik gracza 6 = 19
+Wynik gracza 7 = 9
+Wynik gracza 8 = 16
+Wynik gracza 9 = 30
+Wynik gracza 10 = 8
+Wynik gracza 11 = 8
+Wynik gracza 12 = 9
+Wynik gracza 13 = 9
+Wynik gracza 14 = 19
+Wynik gracza 15 = 11
+Wynik gracza 16 = 0
+Wynik gracza 17 = 11
+Wynik gracza 18 = 0
+Wynik gracza 19 = 12
+Wynik gracza 20 = 0

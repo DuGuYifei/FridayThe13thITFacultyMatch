@@ -1,0 +1,49 @@
+active player = 5
+players number = 20
+explosion threshold = 25
+1 player hand cards: 
+1 player deck cards: 5 yellow 5 yellow 4 yellow 3 yellow 3 yellow 3 yellow 2 yellow 5 yellow 
+2 player hand cards: 
+2 player deck cards: 1 yellow 3 yellow 3 yellow 3 yellow 5 yellow 5 yellow 1 yellow 2 yellow 2 yellow 5 yellow 5 black 1 black 2 black 2 black 3 black 1 black 4 black 1 black 4 black 2 black 4 black 
+3 player hand cards: 
+3 player deck cards: 4 black 2 black 2 black 5 black 1 black 4 black 3 black 3 black 5 black 3 red 2 red 5 red 2 red 2 red 4 red 1 red 3 red 2 red 1 red 5 red 5 blue 2 blue 5 blue 1 blue 3 blue 3 blue 3 blue 2 blue 4 blue 3 red 3 red 4 red 3 red 3 red 1 red 2 red 4 red 2 red 4 red 
+4 player hand cards: 
+4 player deck cards: 
+5 player hand cards: 
+5 player deck cards: 
+6 player hand cards: 
+6 player deck cards: 3 blue 5 blue 1 blue 5 blue 2 blue 1 blue 3 blue 4 blue 5 blue 1 violet 1 violet 1 violet 3 violet 3 violet 5 violet 5 violet 3 violet 3 violet 3 violet 
+7 player hand cards: 
+7 player deck cards: 1 violet 2 violet 4 violet 5 violet 4 violet 4 violet 1 violet 4 violet 5 violet 2 white 1 white 2 white 4 white 2 white 2 white 5 white 3 white 3 white 5 white 3 white 2 white 1 white 2 white 4 white 5 white 5 white 1 white 2 white 4 white 
+8 player hand cards: 
+8 player deck cards: 2 red 4 red 4 red 3 red 5 red 4 red 1 red 4 red 2 violet 2 violet 4 violet 3 violet 4 violet 5 violet 3 violet 4 violet 
+9 player hand cards: 
+9 player deck cards: 1 blue 4 blue 4 green 1 blue 2 blue 2 blue 3 blue 3 blue 3 blue 4 blue 4 white 5 white 1 white 1 white 1 white 4 white 3 white 5 white 1 white 4 white 5 white 3 white 2 white 5 white 5 white 1 white 2 white 1 white 3 white 
+10 player hand cards: 
+10 player deck cards: 1 black 5 black 5 black 4 black 1 black 5 black 4 black 5 black 
+11 player hand cards: 
+11 player deck cards: 1 red 5 red 5 red 1 red 5 red 5 red 3 red 5 red 5 violet 4 violet 1 violet 1 violet 4 violet 1 violet 2 violet 3 violet 2 violet 1 violet 1 violet 5 violet 
+12 player hand cards: 
+12 player deck cards: 3 yellow 4 yellow 1 yellow 1 yellow 2 yellow 2 yellow 5 yellow 4 yellow 4 yellow 
+13 player hand cards: 
+13 player deck cards: 1 blue 2 blue 5 blue 2 blue 5 blue 4 blue 3 blue 1 blue 2 blue 5 blue 3 white 3 white 1 white 5 white 3 white 3 white 4 white 2 white 4 white 
+14 player hand cards: 
+14 player deck cards: 2 violet 2 violet 5 violet 5 violet 2 violet 4 violet 3 violet 2 violet 5 violet 5 black 1 black 2 black 2 black 1 black 4 black 5 black 3 black 1 black 4 black 
+15 player hand cards: 
+15 player deck cards: 1 blue 5 blue 4 blue 5 blue 2 blue 1 blue 4 blue 3 blue 4 blue 4 yellow 4 yellow 1 yellow 1 yellow 4 yellow 4 green 1 yellow 1 yellow 1 yellow 2 yellow 2 yellow 4 yellow 3 yellow 2 yellow 5 yellow 4 yellow 2 yellow 1 yellow 3 yellow 5 yellow 4 yellow 
+16 player hand cards: 
+16 player deck cards: 
+17 player hand cards: 
+17 player deck cards: 3 black 3 black 3 black 2 black 4 black 3 black 2 black 4 green 1 black 5 black 
+18 player hand cards: 
+18 player deck cards: 
+19 player hand cards: 
+19 player deck cards: 5 red 4 red 1 red 3 red 1 red 2 red 2 red 1 red 4 green 2 red 5 red 
+20 player hand cards: 
+20 player deck cards: 
+1 pile cards: 3 yellow 5 yellow 2 yellow 
+2 pile cards: 1 blue 4 blue 2 blue 4 blue 
+3 pile cards: 2 violet 3 violet 
+4 pile cards: 3 black 2 black 3 black 
+5 pile cards: 4 white 4 white 
+6 pile cards: 3 red 4 red 1 red 

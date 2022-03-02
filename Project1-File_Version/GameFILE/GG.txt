@@ -1,0 +1,9 @@
+Na kolor red odporny jest gracz 4
+Na kolor violet odporny jest gracz 4
+Na kolor yellow odporny jest gracz 3
+Na kolor black odporny jest gracz 3
+Wynik gracza 1 = 15
+Wynik gracza 2 = 20
+Wynik gracza 3 = 13
+Wynik gracza 4 = 14
+Wynik gracza 5 = 16

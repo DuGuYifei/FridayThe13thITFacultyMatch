@@ -1,0 +1,46 @@
+1 player has 0 cards on hand
+1 player has 8 cards in front of him
+2 player has 0 cards on hand
+2 player has 21 cards in front of him
+3 player has 0 cards on hand
+3 player has 39 cards in front of him
+4 player has 1 cards on hand
+4 player has 0 cards in front of him
+5 player has 0 cards on hand
+5 player has 0 cards in front of him
+6 player has 0 cards on hand
+6 player has 19 cards in front of him
+7 player has 0 cards on hand
+7 player has 29 cards in front of him
+8 player has 0 cards on hand
+8 player has 16 cards in front of him
+9 player has 0 cards on hand
+9 player has 29 cards in front of him
+10 player has 0 cards on hand
+10 player has 8 cards in front of him
+11 player has 0 cards on hand
+11 player has 20 cards in front of him
+12 player has 0 cards on hand
+12 player has 9 cards in front of him
+13 player has 0 cards on hand
+13 player has 19 cards in front of him
+14 player has 0 cards on hand
+14 player has 19 cards in front of him
+15 player has 0 cards on hand
+15 player has 30 cards in front of him
+16 player has 0 cards on hand
+16 player has 0 cards in front of him
+17 player has 0 cards on hand
+17 player has 10 cards in front of him
+18 player has 0 cards on hand
+18 player has 0 cards in front of him
+19 player has 0 cards on hand
+19 player has 11 cards in front of him
+20 player has 0 cards on hand
+20 player has 0 cards in front of him
+there are 2 cards on 1 pile
+there are 4 cards on 2 pile
+there are 2 cards on 3 pile
+there are 3 cards on 4 pile
+there are 2 cards on 5 pile
+there are 3 cards on 6 pile
